@@ -1,4 +1,9 @@
 test git repository
 test 2nd commit.
+<<<<<<< HEAD
 b
 c
+=======
+git_home
+git_office
+>>>>>>> a70dc138d0fc02f4c71814b73c4abcf1bb11bc58
